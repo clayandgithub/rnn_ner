@@ -1,6 +1,7 @@
 说明：
 利用rnn实现命名实体识别算法
 源码参考:http://www.jianshu.com/p/7e233ef57cb6
+数据集下载地址：http://pan.baidu.com/s/1jIyNT7w
 
 训练步骤：
 1 用现有的语料库（已经切分好）训练出word2vec的model
