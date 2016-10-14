@@ -1,0 +1,1 @@
+python ./train_word2vec_model.py ./dataset/original_split.utf8 ./ner_training_word2vec.model ./ner_training_word2vec.vector
